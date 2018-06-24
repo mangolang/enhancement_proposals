@@ -18,6 +18,15 @@ If the proposal is purely implementational, it can be submitted to the _compiler
 
 A template for proposals is not yet available.
 
+Contributing
+-------------------------------
+
+Additions to Mango are available under `Apache 2.0 licensed`_. By submitting a proposal or commenting on one, you release the contribution under these terms. For notes on how to contribute, see `contributing`_. Please `behave`_.
+
+.. _`Apache 2.0 licensed`: https://github.com/mangolang/mango/blob/master/LICENSE.rst
+.. _`contributing`: https://github.com/mangolang/mango/blob/master/CONTRIBUTING.rst
+.. _`behave`: https://github.com/mangolang/mango/blob/master/CODE_OF_CONDUCT.rst
+
 .. _compiler: https://github.com/mangolang/compiler
 .. _`Mango programming language`: https://mangolang.org/
 
