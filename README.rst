@@ -28,5 +28,5 @@ Additions to Mango are available under `Apache 2.0 licensed`_. By submitting a p
 .. _`behave`: https://github.com/mangolang/mango/blob/master/CODE_OF_CONDUCT.rst
 
 .. _compiler: https://github.com/mangolang/compiler
-.. _`Mango programming language`: https://mangolang.org/
+.. _`Mango programming language`: https://mangocode.org/
 
